@@ -1,9 +1,9 @@
 # ------------------------------------------
-# EE 381 Fall 2020 project 3 - Part 2
+# CECS 378 Lab 1
 # Name: Lennox Scott
 # I.D. #: 017071819
-# Start Date: 09-23-2020
-# End Date:
+# Start Date: 09-02-2020
+# End Date: 10-12-2020
 # Symmetric Cryptography
 # ------------------------------------------
 
