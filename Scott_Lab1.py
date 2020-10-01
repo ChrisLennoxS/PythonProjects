@@ -4,7 +4,7 @@
 # I.D. #: 017071819
 # Start Date: 09-23-2020
 # End Date:
-# Using a Bernoulli RV to simulate a discrete Markov Chain
+# Symmetric Cryptography
 # ------------------------------------------
 
 # Shift Cipher
